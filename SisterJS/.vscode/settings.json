@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.pl": "perl",
+        "unistd.h": "c",
+        "http_framework.h": "c",
+        "routing.h": "c",
+        "server.h": "c",
+        "parser.h": "c",
+        "json.h": "c"
+    }
+}
